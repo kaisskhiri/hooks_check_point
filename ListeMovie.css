@@ -1,0 +1,39 @@
+h3 {
+    display: flex !important;
+    align-items: center !important;
+    
+
+}
+
+h3 img
+{
+width: 200px !important;
+max-width: 300px !important;
+}
+h3.iste-container{
+    text-align: center !important;
+    margin: auto 0 !important;
+    list-style: none !important;
+    justify-content: space-between !important;
+}
+input.container-add {
+    text-align: center !important;
+    display: block;
+    
+}
+Modal Modal.Header Modal.Title {
+    color: blue !important;
+    font-style: italic !important;
+    font: bold 1,5rem !important;
+}
+Button.btn-ajout{
+    color: black !important;
+    background-color: bisque !important;
+
+
+}
+Button.btn-ajout:hover {
+    transition: 0,5s !important;
+    color: rgb(187, 7, 7) !important;
+    background-color: aquamarine !important;
+}
